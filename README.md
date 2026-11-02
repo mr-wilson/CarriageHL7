@@ -15,3 +15,7 @@ Publisher: Carriage
 ## Support
 
 Email [mr.ryanwilson@gmail.com](mailto:mr.ryanwilson@gmail.com).
+
+## Privacy
+
+[Privacy policy](PRIVACY.md)
