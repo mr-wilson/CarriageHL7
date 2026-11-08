@@ -8,7 +8,11 @@ CarriageHL7 for Windows is commercial software, sold in the Microsoft Store. A p
 
 ![Listening for a message](images/listen.png)
 
-[Get CarriageHL7](https://apps.microsoft.com/detail/9MT80L709S60)
+[Get CarriageHL7 for Windows](https://apps.microsoft.com/detail/9MT80L709S60)
+
+The Mac build is an Apple Silicon disk image. Open it and drag CarriageHL7 to Applications. macOS blocks the first launch because the app is not notarized. Control-click CarriageHL7, choose Open, then choose Open again.
+
+[Download CarriageHL7 for Mac](https://github.com/mr-wilson/CarriageHL7/releases/latest/download/CarriageHL7.dmg)
 
 Publisher: Carriage
 
