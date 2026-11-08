@@ -14,7 +14,7 @@ The Mac build is an Apple Silicon disk image. Open it and drag CarriageHL7 to Ap
 
 [Download CarriageHL7 for Mac](https://github.com/mr-wilson/CarriageHL7/releases/latest/download/CarriageHL7.dmg)
 
-Publisher: Carriage
+Publisher: Carriage · [Ryan Wilson on LinkedIn](https://www.linkedin.com/in/mrryanwilson/)
 
 ## Support
 
