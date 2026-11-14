@@ -2,7 +2,7 @@
 
 CarriageHL7 sends and receives HL7 v2 over MLLP. Open a file, read it field by field, search it, compare two messages, send, and answer what arrives.
 
-CarriageHL7 for Windows is commercial software, sold in the Microsoft Store. A purchase includes a 30-day trial.
+The Windows edition is sold in the Microsoft Store for a nominal fee, and a purchase includes a 30-day trial. The Mac and Linux downloads are free. If there is enough interest, I will make CarriageHL7 available on the Apple App Store.
 
 ![Send. The message is on the left, the fields are on the right, and the send options are along the bottom.](images/send.png)
 
