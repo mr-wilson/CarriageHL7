@@ -14,6 +14,10 @@ The Mac build is an Apple Silicon disk image. Open it and drag CarriageHL7 to Ap
 
 [Download CarriageHL7 for Mac](https://github.com/mr-wilson/CarriageHL7/releases/latest/download/CarriageHL7.dmg)
 
+The Linux build is an x86-64 tarball. Unpack it and run `./run.sh samples/09-search.hl7`. On Ubuntu, install the window libraries first: `libxkbcommon0` `libwayland-client0` `libx11-6` `libxcb1` `libxcursor1` `libxrandr2` `libxi6` `libegl1` `libgl1` `libvulkan1` `mesa-vulkan-drivers` `xvfb`. With no display, `run.sh` uses Xvfb.
+
+[Download CarriageHL7 for Linux](https://github.com/mr-wilson/CarriageHL7/releases/download/linux-x64/carriage-linux-x64.tar.gz)
+
 Publisher: Carriage · [Ryan Wilson on LinkedIn](https://www.linkedin.com/in/mrryanwilson/)
 
 ## Features
